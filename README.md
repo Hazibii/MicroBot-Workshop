@@ -1,8 +1,8 @@
 # MicroBot
 The MicroBot is an obstacle avoiding robot that decets an object in front and moves away from it. 
 
-#Part Lists
-2x DC Motors 
+#Part Lists 
+2x DC Motors /n
 1x Arduino Uno 
 1x Motor shield 
 1x Ultrasonic senor 
